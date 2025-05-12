@@ -1,0 +1,11 @@
+stages:
+  - test
+
+test:
+  stage: test
+  script:
+    - mvn clean test
+  artifacts:
+    paths:
+      - target/cucumber-reports.html
+      - target/cucumber.json
