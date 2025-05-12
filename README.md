@@ -43,7 +43,7 @@ Below are are some features in brief for teh framework
      5. folder src/test/java/resources/ has all the feature files and  required extent reporting support files.
 
 
-##  hOw to execute
+##  How to execute
      1. clone the repository using intellij IDE using creating project from VCS https://github.com/Rahulchinki/bookstore- 
         tests.git
      2. open IDE (intellij preferred)
