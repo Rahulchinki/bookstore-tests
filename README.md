@@ -28,6 +28,7 @@ Below are are some features in brief for teh framework
 - Extent Reports
 
 ##  Project Structure
+
      Since I am employing Page object model so
      1. Package names pages under src/main/java/com/demoqa/bookstore has all the code related to business logic that is the 
      locator and methods for each page in its respecive classes .
