@@ -1,0 +1,6 @@
+<configuration>
+    <theme>standard</theme>
+    <encoding>utf-8</encoding>
+    <documentTitle>DemoQA Book Store Test Report</documentTitle>
+    <reportName>Automation Test Report</reportName>
+</configuration>
